@@ -3,4 +3,4 @@
 def howLong(w):
     print(len(w))
 
-howLong("dog")
+print(howLong("dog"))
