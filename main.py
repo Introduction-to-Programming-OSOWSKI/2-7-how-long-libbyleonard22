@@ -1,6 +1,6 @@
 #WRITE YOUR CODE IN THIS FILE
 
-def howLong():
+def howLong(w):
     print(len(w))
 
-howLong("hotdog")
+howLong("dog")
